@@ -1,7 +1,7 @@
 {
   "index_name": "rawsec-cybersecurity-inventory",
   "start_urls": [
-    "https://inventory.rawsec.ml/docs/"
+    "https://inventory.raw.pm/docs/"
   ],
   "stop_urls": [],
   "selectors": {
@@ -22,7 +22,7 @@
     ".hash-link"
   ],
   "sitemap_urls": [
-    "https://inventory.rawsec.ml/docs/sitemap.xml"
+    "https://inventory.raw.pm/docs/sitemap.xml"
   ],
   "sitemap_alternate_links": true,
   "custom_settings": {
